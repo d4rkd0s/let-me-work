@@ -15,7 +15,7 @@ See for more information as to why: http://security.stackexchange.com/questions/
 
 ### Example of one of these annoying pages
 
-![colectivo][colectivo.png]
+![colectivo](colectivo.png)
 
 ### Sample let me work request
 
