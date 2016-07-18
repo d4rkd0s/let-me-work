@@ -3,6 +3,8 @@
 # d4rkd0s - 2016
 #
 # Config area
+#   note: you can not and should not use google for the testurl, 
+#   they have funky internal redirections setup that make this difficulty
 name=colectivo
 ip=192.168.10.1
 testurl=http://github.com
