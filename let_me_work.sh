@@ -2,7 +2,7 @@
 # Let Me Work
 # d4rkd0s - 2016
 #
-# Config
+# Config area
 name=colectivo
 ip=192.168.10.1
 testurl=http://github.com
