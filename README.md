@@ -13,7 +13,9 @@ See for more information as to why: http://security.stackexchange.com/questions/
 2. Edit let_me_work.sh
 3. Cron it up!
 
+### Example of one of these annoying pages
 
+![colectivo][colectivo.png]
 
 ### Sample let me work request
 
