@@ -10,7 +10,7 @@ See for more information as to why: http://security.stackexchange.com/questions/
 
 ## Install / Use
 1. Clone the repo
-2. Edit let_me_work.sh
+2. Edit `let_me_work.sh` config area
 3. Cron it up!
 
 ### Example of one of these annoying pages
