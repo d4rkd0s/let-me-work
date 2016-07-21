@@ -22,7 +22,7 @@ then
     echo -n "Sending magic POST request to tell "
     echo -n $name
     echo " to let you keep working..."
-    curl --request POST $(endpoint) --data "accept=I+have+read+and+agree+to+everything+below." -vv
+    curl --request POST $endpoint --data "accept=I+have+read+and+agree+to+everything+below." -vv
 else
     echo "Redirection not detected."
 fi
