@@ -4,7 +4,7 @@
 #
 # Config area
 #   note: you can not and should not use google for the testurl, 
-#   they have funky internal redirections setup that make this difficulty
+#   they have funky internal redirections setup that make this difficult
 name=colectivo
 endpoint=http://192.168.10.1:8000/index.php
 testurl=http://github.com
