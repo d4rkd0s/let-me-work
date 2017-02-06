@@ -8,10 +8,18 @@ The drive to create this project came from many days working in my local Colecti
 Be sure to continue or start using a VPN when connected to these types of networks! 
 See for more information as to why: http://security.stackexchange.com/questions/11382/what-are-the-pros-and-cons-of-a-vpn-for-privacy
 
-## Install / Use
+## Linux
 1. Clone the repo
 2. Edit `let_me_work.sh` config area
-3. Cron it up!
+3. Run with `watch ./let_me_work.sh 5`
+
+## OSX
+1. Clone the repo
+2. Edit `let_me_work.sh` config area
+3. `chmod u+x let_me_work.sh`
+4. `chmod u+x watch.sh`
+5. Run it with `./watch.sh ./let_me_work.sh 5`
+
 
 ### Example of one of these annoying pages
 
