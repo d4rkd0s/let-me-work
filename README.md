@@ -9,16 +9,18 @@ Be sure to continue or start using a VPN when connected to these types of networ
 See for more information as to why: http://security.stackexchange.com/questions/11382/what-are-the-pros-and-cons-of-a-vpn-for-privacy
 
 ## Linux
-1. Clone the repo
-2. Edit `let_me_work.sh` config area
-3. Run with `watch ./let_me_work.sh 5`
+1. Clone the repo `git clone https://github.com/d4rkd0s/let-me-work.git`
+2. Go into the repo `cd let-me-work/`
+3. Edit `open -a TextEdit let_me_work.sh` config area
+4. Run with `watch ./let_me_work.sh 5`
 
 ## OSX
-1. Clone the repo
-2. Edit `let_me_work.sh` config area
-3. `chmod u+x let_me_work.sh`
-4. `chmod u+x watch.sh`
-5. Run it with `./watch.sh ./let_me_work.sh 5`
+1. Clone the repo `git clone https://github.com/d4rkd0s/let-me-work.git`
+2. Go into the repo `cd let-me-work/`
+3. Edit `open -a TextEdit let_me_work.sh` config area
+4. Make let_me_work.sh executable `chmod u+x let_me_work.sh`
+5. Make watch.sh executable `chmod u+x watch.sh`
+6. Run it with `./watch.sh ./let_me_work.sh 5`
 
 
 ### Example of one of these annoying pages
